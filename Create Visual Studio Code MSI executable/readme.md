@@ -1,6 +1,7 @@
 # WiX toolset 4 CLI
 ### Downloads and documentation
-Download link: [Ryver](https://ryver.com/downloads/) <br />
+<b>Download links:</b> <br />
+* [Visual Studio Code](https://code.visualstudio.com/Download)
 
 <b>Generate package guid</b>
 ```powershell
@@ -9,5 +10,5 @@ Download link: [Ryver](https://ryver.com/downloads/) <br />
 
 <b>WiX build MSI package command</b>
 ```powershell
-wix build .\Ryver.wxs
+wix build vscode.wxs
 ```
