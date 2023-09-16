@@ -6,5 +6,3 @@ Download link: [Brave](https://github.com/brave/brave-browser) <br />
 ```powershell
 wix build .\Brave.wxs
 ```
-
-t
