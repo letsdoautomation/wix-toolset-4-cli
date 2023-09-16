@@ -1,7 +1,6 @@
 # WiX toolset 4 CLI
 ### Downloads and documentation
-<b>Download links:</b> <br /> 
-* [Ryver](https://ryver.com/downloads/) <br />
+Download link: [Ryver](https://ryver.com/downloads/) <br />
 
 <b>Generate package guid</b>
 ```powershell
