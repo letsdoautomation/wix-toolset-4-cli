@@ -18,5 +18,8 @@ wix build .\Ryver.wxs
 [Group Policy: Packaging EXE into MSI for Group Policy software deployment using WiX toolset CLI](https://youtu.be/pZ42XS2Ucsg) <br />
 
 ### Windows registry <br />
-[Windows Registry: Run and RunOnce](https://youtu.be/HrVJ7wdvfmo) <br />
+[Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
+
+### PSEXEC
+[Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
