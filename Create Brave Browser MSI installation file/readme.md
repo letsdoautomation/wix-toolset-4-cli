@@ -1,9 +1,14 @@
 # WiX toolset 4 CLI
 ### <b>Downloads and documentation</b>
-<b>Download links:</b> <br />
-* [Brave](https://github.com/brave/brave-browser) <br />
+Download links:
+* [Brave](https://github.com/brave/brave-browser)
 
-### <b>Software installation using Active Setup and RunOnce</b>
+Actions performed by MSI file:
+* Software installation file placed in C:\ProgramData\\_packages\GUID
+* Active Setup registry key created
+
+Software installation flow using Active Setup and RunOnce:
+
 ```mermaid
 flowchart TD
     a["User signs-in to the computer"] --> b["Active Setup creates RunOnce registry entry"]
@@ -11,12 +16,12 @@ flowchart TD
     c --> d["RunOnce will start software installation"]
 ```
 
-<b>Generate package guid</b>
+Generate package guid:
 ```powershell
 [guid]::NewGuid().guid
 ```
 
-<b>WiX build MSI package command</b>
+WiX build MSI package command:
 ```powershell
 wix build .\Brave.wxs
 ```
