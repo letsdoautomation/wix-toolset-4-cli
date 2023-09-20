@@ -1,6 +1,6 @@
 <?define name = "Spotify Installer"?>
 <?define exe = "SpotifyFullSetup.exe"?>
-<?define silent = "/silent"?>
+<?define silent = "/Silent"?>
 <?define path = "D:\Downloads"?>
 <?define version = "1.2.19"?>
 <?define publisher = "letsdoautomation"?>
