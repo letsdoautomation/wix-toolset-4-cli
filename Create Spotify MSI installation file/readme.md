@@ -19,7 +19,7 @@ flowchart TD
 
 Silent switches:
 ```powershell
--s
+/Silent
 ```
 
 Generate package guid:
