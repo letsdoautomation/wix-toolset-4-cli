@@ -3,10 +3,6 @@
 <b>Download links:</b> <br />
 * [CutePDF](https://www.cutepdf.com/products/CutePDF/writer.asp) <br />
 
-How it works:
-* We are installing MSI file
-* MSI file is installing software
-
 <b>Silent switches:</b>
 ```powershell
 /VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-
