@@ -16,6 +16,11 @@ flowchart TD
     c --> d["RunOnce will start software installation"]
 ```
 
+Silent switches:
+```powershell
+/S
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
