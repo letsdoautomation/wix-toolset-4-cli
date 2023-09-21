@@ -3,6 +3,15 @@
 <b>Download links:</b> <br />
 * [K-Lite Code Pack](https://www.codecguide.com/download_kl.htm)
 
+How it works:
+* We are installing MSI file
+* MSI file is installing software
+
+<b>Silent switches:</b>
+```powershell
+/VERYSILENT /NORESTART
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
@@ -13,7 +22,7 @@
 wix build "klite.wxs"
 ```
 
-### WiX Toolset 4 CLI <br />
+### WiX Toolset 4 CLI
 [Windows Tools: Download and install .NET 7 SDK and WiXtoolset 4 CLI tool](https://youtu.be/ukrIlmadTjw) <br />
 [Group Policy: Packaging EXE into MSI for Group Policy software deployment using WiX toolset CLI](https://youtu.be/pZ42XS2Ucsg) <br />
 
