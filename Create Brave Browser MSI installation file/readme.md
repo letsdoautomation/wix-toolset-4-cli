@@ -26,13 +26,13 @@ WiX build MSI package command:
 wix build .\Brave.wxs
 ```
 
-### <b>WiX Toolset 4 CLI</b><br />
+### <b>WiX Toolset 4 CLI</b>
 [Windows Tools: Download and install .NET 7 SDK and WiXtoolset 4 CLI tool](https://youtu.be/ukrIlmadTjw) <br />
 [Group Policy: Packaging EXE into MSI for Group Policy software deployment using WiX toolset CLI](https://youtu.be/pZ42XS2Ucsg) <br />
 
-### <b>Windows registry</b><br />
+### <b>Windows registry</b>
 [Windows Registry: Run and RunOnce](https://youtu.be/zgFzCq5uEPw) <br />
 [Windows Registry: Active Setup](https://youtu.be/HrVJ7wdvfmo) <br />
 
-### <b>PSEXEC</b><br />
+### <b>PSEXEC</b>
 [Windows tools: Using PSEXEC for software deployment testing](https://youtu.be/9ywdTna_TLc) <br />
