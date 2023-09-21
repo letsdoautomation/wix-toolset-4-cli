@@ -3,10 +3,6 @@
 <b>Download links:</b> <br />
 * [Evernote](https://evernote.com/download)
 
-How it works:
-* We are installing MSI file
-* MSI file is installing software
-
 Silent switches:
 ```powershell
 /S
