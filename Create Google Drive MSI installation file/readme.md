@@ -3,10 +3,6 @@
 <b>Download links:</b> <br />
 * [Google Drive](https://support.google.com/a/answer/7491144?hl=en#zippy=%2Cwindows)
 
-How it works:
-* We are installing MSI file
-* MSI file is installing software
-
 <b>Silent switches:</b>
 ```powershell
 --silent --skip_launch_new --gsuite_shortcuts=false

@@ -3,10 +3,6 @@
 <b>Download links:</b> <br />
 * [K-Lite Code Pack](https://www.codecguide.com/download_kl.htm)
 
-How it works:
-* We are installing MSI file
-* MSI file is installing software
-
 <b>Silent switches:</b>
 ```powershell
 /VERYSILENT /NORESTART

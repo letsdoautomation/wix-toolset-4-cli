@@ -3,10 +3,6 @@
 <b>Download links:</b> <br />
 * [FileZilla](https://filezilla-project.org/download.php?platform=win64)
 
-How it works:
-* We are installing MSI file
-* MSI file is installing software
-
 <b>Silent switches:</b>
 ```powershell
 /S
