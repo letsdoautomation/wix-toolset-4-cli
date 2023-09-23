@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [Opera](https://www.opera.com/download)
 
+<b>Silent switches:</b>
+```powershell
+--allusers=1 --silent=1 --launchbrowser=0
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
