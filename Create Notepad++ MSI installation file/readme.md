@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 
+<b>Silent switches:</b>
+```powershell
+/S
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
