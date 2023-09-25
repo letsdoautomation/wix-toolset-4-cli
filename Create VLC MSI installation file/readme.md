@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [VLC](https://www.videolan.org/)
 
+<b>Silent switches:</b>
+```powershell
+/S
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
