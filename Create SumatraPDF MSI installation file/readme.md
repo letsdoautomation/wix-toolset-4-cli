@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [SumatraPDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 
+<b>Silent switches:</b>
+```powershell
+-s -all-users
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
