@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [Visual Studio Code](https://code.visualstudio.com/Download)
 
+<b>Silent switches:</b>
+```powershell
+/VERYSILENT /NORESTART /SUPPRESSMSGBOXES /MERGETASKS=!runcode
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
