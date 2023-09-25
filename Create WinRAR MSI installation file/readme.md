@@ -3,6 +3,11 @@
 <b>Download links:</b> <br />
 * [WinRAR](https://www.win-rar.com/download.html?&L=0)
 
+<b>Silent switches:</b>
+```powershell
+/S
+```
+
 <b>Generate package guid</b>
 ```powershell
 [guid]::NewGuid().guid
