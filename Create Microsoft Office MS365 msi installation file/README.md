@@ -12,7 +12,7 @@
 
 <b>Objectives:</b>
 
-* Create .MSI installation file for Microsoft 365 Office installation
+* Create .MSI installation file for Microsoft 365 Office
 
 <b>Generate package guid:</b>
 
